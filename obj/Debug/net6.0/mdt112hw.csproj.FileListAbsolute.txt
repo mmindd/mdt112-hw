@@ -1,0 +1,15 @@
+/Users/mmindd/Desktop/mdt112hw/bin/Debug/net6.0/mdt112hw
+/Users/mmindd/Desktop/mdt112hw/bin/Debug/net6.0/mdt112hw.deps.json
+/Users/mmindd/Desktop/mdt112hw/bin/Debug/net6.0/mdt112hw.runtimeconfig.json
+/Users/mmindd/Desktop/mdt112hw/bin/Debug/net6.0/mdt112hw.dll
+/Users/mmindd/Desktop/mdt112hw/bin/Debug/net6.0/mdt112hw.pdb
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/mdt112hw.csproj.AssemblyReference.cache
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/mdt112hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/mdt112hw.AssemblyInfoInputs.cache
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/mdt112hw.AssemblyInfo.cs
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/mdt112hw.csproj.CoreCompileInputs.cache
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/mdt112hw.dll
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/refint/mdt112hw.dll
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/mdt112hw.pdb
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/mdt112hw.genruntimeconfig.cache
+/Users/mmindd/Desktop/mdt112hw/obj/Debug/net6.0/ref/mdt112hw.dll
