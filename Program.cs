@@ -16,9 +16,9 @@ namespace passwordchecking
 
             int firstdigit = password / 100000;
             int seconddigit = (password / 10000) % 10;
-            int thirddigit = (password / 100) % 10;
-            int fourthdigit = (password / 10) % 10;
-            int fifthdigit = (password / 1000) % 10;
+            int thirddigit = (password / 1000) % 10;
+            int fourthdigit = (password / 100) % 10;
+            int fifthdigit = (password / 10) % 10;
             int lastdigit = password % 10;
 
             if (agency == "CIA")
